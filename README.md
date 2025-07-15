@@ -5,7 +5,7 @@
 
 ---
 
-## 🔍 Sample Detection Output
+## 🔍 Detection Output
 
 ![Alert Screenshot](./alert_screenshot.png)
 
