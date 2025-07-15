@@ -1,0 +1,5 @@
+# Example detection rule
+- rule: Brute Force SSH
+  pattern: 'Failed password'
+  severity: High
+  mitre: T1110
